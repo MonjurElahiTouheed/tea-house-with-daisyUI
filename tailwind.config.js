@@ -2,7 +2,8 @@ tailwind.config = {
     theme: {
       extend: {
         colors: {
-          clifford: '#da373d',
+          'gradient-start': '#ff8938',
+          'gradient-end'  : '#f00'
         }
       }
     }
